@@ -76,7 +76,7 @@ cd EcoVerse
 npm install && npm run dev
 ```
 
-Open **http://localhost:5173** in your browser. 🎉
+Open **ecoverse-psi-six.vercel.app** in your browser. 🎉
 
 ### 🎬 Suggested walkthrough for judges
 

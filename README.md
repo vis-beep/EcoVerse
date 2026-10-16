@@ -18,13 +18,7 @@
 git clone https://github.com/vis-beep/EcoVerse.git
 cd EcoVerse
 npm install && npm run dev
-```
 
-Then open **http://localhost:5173** and follow the steps below.
-
-1. On the login screen, click any of the three **one-click roles** (see below).
-2. Follow the story in order: **Student → Technician → Admin**.
-3. Open the **Digital Mapping** page and the floating **Copilot** (bottom-right) to see the rest.
 
 ### Suggested demo walkthrough
 
@@ -236,8 +230,3 @@ Built for **_HACKATHON / COMPETITION NAME_**.
 
 ---
 
-## 📜 License
-
-Released under the MIT License. See [`LICENSE`](LICENSE).
-
-<p align="center">Built with 💚 for greener campuses.</p>

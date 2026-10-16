@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="EcoVerse AI banner" width="100%">
+  <img src="docs/banner.svg" alt=" EcoVerse AI banner " width="100%">
 </p>
 
 <p align="center">
@@ -38,15 +38,7 @@ Think of a college campus: a tap is leaking, lights are on in an empty room, a b
 
 ---
 
-## 👥 Who Uses It?
 
-<p align="center">
-  <img src="docs/roles.svg" alt="Student, Technician and Administrator roles" width="100%">
-</p>
-
-No password is needed. On the login page, just **click a role** to try it.
-
----
 
 ## ✨ Main Features
 
@@ -191,17 +183,5 @@ The simulated parts are designed to be swapped for real IoT sensors, a vision mo
 
 ---
 
-## 👥 Team
-
-**Team name:** _YOUR TEAM NAME_
-
-| Name | Role |
-|---|---|
-| _Your Name_ | _e.g. Full-stack developer_ |
-| _Teammate_ | _e.g. UI/UX designer_ |
-
-Built for **_HACKATHON / COMPETITION NAME_**.
-
----
 
 <p align="center">Made with 💚 for greener campuses</p>

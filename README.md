@@ -1,3 +1,5 @@
+> **Deploying with Supabase?** Start with [`START_HERE_SUPABASE.md`](START_HERE_SUPABASE.md). This current build supports temporary, publicly editable cross-device demo data.
+
 # EcoVerse AI — Intelligent Sustainability Solutions
 > **AI-Powered Sustainable Campus & Green Technology Platform**  
 > *Developed for University Sustainability Exhibitions, Hackathons, and Innovation Competitions.*
